@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: SigstoreCosignPipeline
+metadata:
+  name: sigstore-cosign-slsa
+spec:
+  oidcProvider: "https://token.actions.githubusercontent.com"
+  rekorTransparencyUrl: "https://rekor.sigstore.dev"
+  fulcioCertificateAuthority: "https://fulcio.sigstore.dev"
+  slsaProvenanceLevel: 3
+  signKeyless: true
+  attestationPredicate: "https://slsa.dev/provenance/v1"
