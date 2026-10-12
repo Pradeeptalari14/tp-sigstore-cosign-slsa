@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # Sigstore Cosign SLSA Provenance Studio
 
 [![CI Validation](https://github.com/Pradeeptalari14/tp-sigstore-cosign-slsa/actions/workflows/ci.yml/badge.svg)](https://github.com/Pradeeptalari14/tp-sigstore-cosign-slsa/actions)
@@ -123,3 +126,6 @@ spec:
 ## 7. License
 
 Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Talari Pradeep.
+
+---
+*Synchronized with [Sigstore Cosign SLSA Provenance Studio Studio](https://pradeeptalari.me/tools/sigstore-cosign-slsa/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
